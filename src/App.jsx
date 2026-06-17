@@ -111,7 +111,7 @@ export default function App() {
 
         <div className="relative">
           <TiltedCard
-            imageSrc="/dev.png"
+            imageSrc="/Pro-file.png"
             altText="Ravikiran Frontend Engineer React.js Developer"
             captionText="Frontend Developer"
             containerHeight="600px"
